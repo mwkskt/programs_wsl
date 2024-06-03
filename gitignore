@@ -16,3 +16,4 @@ node_modules
 data
 .DS_Store
 prediction01_wsl.png
+.gitignore
